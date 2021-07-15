@@ -7,13 +7,13 @@
 
 ## List of questions, and the "why" for each question:
   
-  # Are there any correlating relationship within the data set?
-  # Are there correlating factors that contribute to the salary level?
-# (Analyze the diff. paths to each salary pt.)
-  # Which group of adults have a marital status of stay married?
-# (Analyze diff. marital status)
+     # Are there any correlating relationship within the data set?
+     # Are there correlating factors that contribute to the salary level?
+        # (Analyze the diff. paths to each salary pt.)
+      # Which group of adults have a marital status of stay married?
+        # (Analyze diff. marital status)
 
-# what is the call to action based on the data?
+        # what is the call to action based on the data?
  
 # Tasks to think about:
-  # Data accuracy (we can run some audits to check data integrity) ....What do u think?
+     # Data accuracy (we can run some audits to check data integrity) ....What do u think?

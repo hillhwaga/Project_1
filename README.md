@@ -19,15 +19,16 @@ A lot of brainstorming questions, like:
 * what is the call to action based on the data?
 
 ## Libraires used
-Pandas, Plotly, Python, Numpy, and ...
+Pandas, Plotly, Python, Numpy, and ... 
 
 ## Task
 Analyze applicant's economic staus.
 
-## (EXTRA) Tasks to think about:
-   Data accuracy (we can run some audits to check data integrity) ....What do u think?
+## Tasks to think about while aglining with goal:
+Data accuracy (we can run some audits to check data integrity) ....What do u think?
 
 ## Question 1:
+What is the most popularized occupation? ( I will add more, neede to sleep on it for better results)
 
 ## Question 2:
 

@@ -16,6 +16,7 @@ Recently, we have successfully gathered our first batch of client data informati
 ![careers-900x302](https://user-images.githubusercontent.com/84341895/126706284-d5fcb06d-9a1b-4391-b860-f05b7df42579.png)
 
 
+
 ## Our Brainstorming Q's
 ![images](https://user-images.githubusercontent.com/84341895/126705634-b0d43933-4a8f-4fc2-be3b-4b6532b51c17.jpeg)
 
@@ -28,8 +29,10 @@ A lot of brainstorming questions, like:
 * what is the call to action based on the data?
 
 
+
 ## Libraires used
 Pandas, Plotly, Python, and Numpy. 
+
 
 
 ## Task
@@ -37,18 +40,20 @@ Pandas, Plotly, Python, and Numpy.
 * Analyze applicant's economic staus.
 * Data accuracy (we ran some audits to check the data's integrity).
 
-## Questions 1-5
+
+
+## Questions 1-4
 ## Question 1:
-Would you anticipate a relationship between occupation and education, in regards to salary? 
+Out of our applicant pool is there any correlation between hours workered per week verses the age and occupation of the applicants?
 
 ## Question 2:
-From the hours worked dataset, what occupation seems to be popularzied?
+How does age influence the applicant's salary, what is the relationship?
 
 ## Question 3:
-What does the relation between the salary amount and ages explain?
+Are there any obvious trends amoung our pool of applicants?
 
 ## Question 4:
-What marital stuatus trend can you spot amoungst the applicants?
+What is the relationship of the numbers of year spent in school and work life?
 
 
 Are There Any Questions?

@@ -37,7 +37,7 @@ Pandas, Plotly, Python, and Numpy.
 * Analyze applicant's economic staus.
 * Data accuracy (we ran some audits to check the data's integrity).
 
-## Questions 
+## Questions 1-5
 ## Question 1:
 Would you anticipate a relationship between occupation and education, in regards to salary? 
 

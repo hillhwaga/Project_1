@@ -26,3 +26,12 @@ Analyze applicant's economic staus.
 
 ## (EXTRA) Tasks to think about:
    Data accuracy (we can run some audits to check data integrity) ....What do u think?
+
+## Question 1:
+
+## Question 2:
+
+## Question 3:
+
+## Question 4:
+

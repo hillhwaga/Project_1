@@ -20,7 +20,7 @@ A lot of brainstorming questions, like:
 * what is the call to action based on the data?
 
 ## Libraires used
-Pandas, Plotly, Python, Numpy, and ... 
+Pandas, Plotly, Python, and Numpy. 
 
 ## Task
 * Analyze applicant's economic staus.

@@ -3,6 +3,7 @@
 * [Our Brainstorming Q's](#Our-Brainstorming-Q's)
 * [Libraries Used](#Libraries-used)
 * [Task](#Task)
+* [Questions 1-4](#Questions-1-4)
 
 ## General info
 We are CG, a new startup consultant agency. We work with adult individuals from the ages of 16 and older. Our prime focus is in analyzing the social-economic status of each individual and advising on which employment path to take. Our goal as a company is to serve our clients, and our long-term goal is to improve on personalizing the advice on which path to take. Whether it is to go gain more education qualifications or pursue a career. 
@@ -22,17 +23,17 @@ A lot of brainstorming questions, like:
 Pandas, Plotly, Python, Numpy, and ... 
 
 ## Task
-Analyze applicant's economic staus.
-
-## Tasks to think about while aglining with goal:
-Data accuracy (we can run some audits to check data integrity) ....What do u think?
+* Analyze applicant's economic staus.
+* Data accuracy (we ran some audits to check the data's integrity).
 
 ## Question 1:
-What is the most popularized occupation? ( I will add more, neede to sleep on it for better results)
+Would you anticipate a relationship between occupation and education, in regards to salary? 
 
 ## Question 2:
+From the hours worked dataset, what occupation seems to be popularzied?
 
 ## Question 3:
+What does the relation between the salary amount and ages explain?
 
 ## Question 4:
-
+What marital stuatus trend can you spot amoungst the applicants?

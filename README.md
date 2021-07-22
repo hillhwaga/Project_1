@@ -6,6 +6,7 @@
 
 ## General info
 We are CG, a new startup consultant agency. We work with adult individuals from the ages of 16 and older. Our prime focus is in analyzing the social-economic status of each individual and advising on which employment path to take. Our goal as a company is to serve our clients, and our long-term goal is to improve on personalizing the advice on which path to take. Whether it is to go gain more education qualifications or pursue a career. 
+
 Recently, we have successfully gathered our first batch of client data information.  We aim to identify, sort through, analyze and quantify their past and present-day status to improve their future outcomes.
 
 ## Our Brainstorming Q's
@@ -33,5 +34,4 @@ Analyze applicant's economic staus.
 ## Question 3:
 
 ## Question 4:
-
 

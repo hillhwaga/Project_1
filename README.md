@@ -31,7 +31,7 @@ A lot of brainstorming questions, like:
 
 
 ## Libraires used
-Pandas, Plotly, Python, and Numpy. 
+Pandas, Plotly, and Numpy. 
 
 
 
